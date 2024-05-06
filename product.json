@@ -1,0 +1,23 @@
+[
+  {
+    "pid": "P01",
+    "name": "鉛筆",
+    "price": 20,
+    "quantity": 3,
+    "image": "https://www.leuchtturm1917.ca/media/productdetail/700x700/801153/pencil.jpg"
+  },
+  {
+    "pid": "P02",
+    "name": "原子筆",
+    "price": 80,
+    "quantity": 7,
+    "image": "https://media.karousell.com/media/photos/products/2017/09/28/zebra_sarasa_clip__1506593947_23b7dce3.jpg"
+  },
+  {
+    "pid": "P03",
+    "name": "橡皮擦",
+    "price": 25,
+    "quantity": 1,
+    "image": "https://tshop.r10s.com/4cb/3d8/5112/c3ff/70a0/fae0/18e1/1101e9a7a90242ac110002.jpg"
+  }
+]
