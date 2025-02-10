@@ -1,7 +1,7 @@
 [
-    { "name": "elephant" },
-    { "name": "lion" },
-    { "name": "wolf" },
-    { "name": "zebra" },
-    { "name": "monkey" }
+    { "name": "elephant.jpg" },
+    { "name": "lion.jpg" },
+    { "name": "wolf.jpg" },
+    { "name": "zebra.jpg" },
+    { "name": "monkey.jpg" }
 ]
