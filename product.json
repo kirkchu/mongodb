@@ -1,0 +1,23 @@
+[
+  {
+    "pid": "P01",
+    "name": "鉛筆",
+    "price": 25,
+    "quantity": 6,
+    "image": "https://blackwing602.com/cdn/shop/products/audition-3.jpg?v=1642789940"
+  },
+  {
+    "pid": "P02",
+    "name": "原子筆",
+    "price": 80,
+    "quantity": 7,
+    "image": "https://www.parkershop.eu/files/zdjecia/galeria/g_2068358_3_b.jpg"
+  },
+  {
+    "pid": "P03",
+    "name": "鋼筆",
+    "price": 900,
+    "quantity": 5,
+    "image": "https://m.media-amazon.com/images/I/515sXTO5QkL._AC_UF1000,1000_QL80_.jpg"
+  }
+]
