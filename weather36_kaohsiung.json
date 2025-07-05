@@ -43,27 +43,27 @@
                         "elementName": "Wx",
                         "time": [
                             {
-                                "startTime": "2025-07-05 00:00:00",
-                                "endTime": "2025-07-05 06:00:00",
-                                "parameter": {
-                                    "parameterName": "晴時多雲",
-                                    "parameterValue": "2"
-                                }
-                            },
-                            {
-                                "startTime": "2025-07-05 06:00:00",
+                                "startTime": "2025-07-05 12:00:00",
                                 "endTime": "2025-07-05 18:00:00",
                                 "parameter": {
-                                    "parameterName": "多雲短暫陣雨或雷雨",
-                                    "parameterValue": "15"
+                                    "parameterName": "多雲午後短暫雷陣雨",
+                                    "parameterValue": "22"
                                 }
                             },
                             {
                                 "startTime": "2025-07-05 18:00:00",
                                 "endTime": "2025-07-06 06:00:00",
                                 "parameter": {
-                                    "parameterName": "陰時多雲短暫陣雨或雷雨",
-                                    "parameterValue": "17"
+                                    "parameterName": "陰短暫陣雨或雷雨",
+                                    "parameterValue": "18"
+                                }
+                            },
+                            {
+                                "startTime": "2025-07-06 06:00:00",
+                                "endTime": "2025-07-06 18:00:00",
+                                "parameter": {
+                                    "parameterName": "陰短暫陣雨或雷雨",
+                                    "parameterValue": "18"
                                 }
                             }
                         ]
@@ -72,18 +72,10 @@
                         "elementName": "PoP",
                         "time": [
                             {
-                                "startTime": "2025-07-05 00:00:00",
-                                "endTime": "2025-07-05 06:00:00",
-                                "parameter": {
-                                    "parameterName": "10",
-                                    "parameterUnit": "百分比"
-                                }
-                            },
-                            {
-                                "startTime": "2025-07-05 06:00:00",
+                                "startTime": "2025-07-05 12:00:00",
                                 "endTime": "2025-07-05 18:00:00",
                                 "parameter": {
-                                    "parameterName": "50",
+                                    "parameterName": "60",
                                     "parameterUnit": "百分比"
                                 }
                             },
@@ -91,7 +83,15 @@
                                 "startTime": "2025-07-05 18:00:00",
                                 "endTime": "2025-07-06 06:00:00",
                                 "parameter": {
-                                    "parameterName": "40",
+                                    "parameterName": "70",
+                                    "parameterUnit": "百分比"
+                                }
+                            },
+                            {
+                                "startTime": "2025-07-06 06:00:00",
+                                "endTime": "2025-07-06 18:00:00",
+                                "parameter": {
+                                    "parameterName": "90",
                                     "parameterUnit": "百分比"
                                 }
                             }
@@ -101,18 +101,10 @@
                         "elementName": "MinT",
                         "time": [
                             {
-                                "startTime": "2025-07-05 00:00:00",
-                                "endTime": "2025-07-05 06:00:00",
-                                "parameter": {
-                                    "parameterName": "28",
-                                    "parameterUnit": "C"
-                                }
-                            },
-                            {
-                                "startTime": "2025-07-05 06:00:00",
+                                "startTime": "2025-07-05 12:00:00",
                                 "endTime": "2025-07-05 18:00:00",
                                 "parameter": {
-                                    "parameterName": "28",
+                                    "parameterName": "30",
                                     "parameterUnit": "C"
                                 }
                             },
@@ -120,7 +112,15 @@
                                 "startTime": "2025-07-05 18:00:00",
                                 "endTime": "2025-07-06 06:00:00",
                                 "parameter": {
-                                    "parameterName": "27",
+                                    "parameterName": "26",
+                                    "parameterUnit": "C"
+                                }
+                            },
+                            {
+                                "startTime": "2025-07-06 06:00:00",
+                                "endTime": "2025-07-06 18:00:00",
+                                "parameter": {
+                                    "parameterName": "26",
                                     "parameterUnit": "C"
                                 }
                             }
@@ -130,22 +130,22 @@
                         "elementName": "CI",
                         "time": [
                             {
-                                "startTime": "2025-07-05 00:00:00",
-                                "endTime": "2025-07-05 06:00:00",
-                                "parameter": {
-                                    "parameterName": "舒適至悶熱"
-                                }
-                            },
-                            {
-                                "startTime": "2025-07-05 06:00:00",
+                                "startTime": "2025-07-05 12:00:00",
                                 "endTime": "2025-07-05 18:00:00",
                                 "parameter": {
-                                    "parameterName": "舒適至悶熱"
+                                    "parameterName": "悶熱"
                                 }
                             },
                             {
                                 "startTime": "2025-07-05 18:00:00",
                                 "endTime": "2025-07-06 06:00:00",
+                                "parameter": {
+                                    "parameterName": "舒適至悶熱"
+                                }
+                            },
+                            {
+                                "startTime": "2025-07-06 06:00:00",
+                                "endTime": "2025-07-06 18:00:00",
                                 "parameter": {
                                     "parameterName": "舒適至悶熱"
                                 }
@@ -156,15 +156,7 @@
                         "elementName": "MaxT",
                         "time": [
                             {
-                                "startTime": "2025-07-05 00:00:00",
-                                "endTime": "2025-07-05 06:00:00",
-                                "parameter": {
-                                    "parameterName": "29",
-                                    "parameterUnit": "C"
-                                }
-                            },
-                            {
-                                "startTime": "2025-07-05 06:00:00",
+                                "startTime": "2025-07-05 12:00:00",
                                 "endTime": "2025-07-05 18:00:00",
                                 "parameter": {
                                     "parameterName": "33",
@@ -175,7 +167,15 @@
                                 "startTime": "2025-07-05 18:00:00",
                                 "endTime": "2025-07-06 06:00:00",
                                 "parameter": {
-                                    "parameterName": "31",
+                                    "parameterName": "30",
+                                    "parameterUnit": "C"
+                                }
+                            },
+                            {
+                                "startTime": "2025-07-06 06:00:00",
+                                "endTime": "2025-07-06 18:00:00",
+                                "parameter": {
+                                    "parameterName": "30",
                                     "parameterUnit": "C"
                                 }
                             }
