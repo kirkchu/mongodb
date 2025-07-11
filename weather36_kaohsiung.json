@@ -43,11 +43,11 @@
                         "elementName": "Wx",
                         "time": [
                             {
-                                "startTime": "2025-07-11 18:00:00",
+                                "startTime": "2025-07-12 00:00:00",
                                 "endTime": "2025-07-12 06:00:00",
                                 "parameter": {
-                                    "parameterName": "陰短暫陣雨或雷雨",
-                                    "parameterValue": "18"
+                                    "parameterName": "陰短暫陣雨",
+                                    "parameterValue": "11"
                                 }
                             },
                             {
@@ -72,7 +72,7 @@
                         "elementName": "PoP",
                         "time": [
                             {
-                                "startTime": "2025-07-11 18:00:00",
+                                "startTime": "2025-07-12 00:00:00",
                                 "endTime": "2025-07-12 06:00:00",
                                 "parameter": {
                                     "parameterName": "30",
@@ -101,7 +101,7 @@
                         "elementName": "MinT",
                         "time": [
                             {
-                                "startTime": "2025-07-11 18:00:00",
+                                "startTime": "2025-07-12 00:00:00",
                                 "endTime": "2025-07-12 06:00:00",
                                 "parameter": {
                                     "parameterName": "27",
@@ -130,7 +130,7 @@
                         "elementName": "CI",
                         "time": [
                             {
-                                "startTime": "2025-07-11 18:00:00",
+                                "startTime": "2025-07-12 00:00:00",
                                 "endTime": "2025-07-12 06:00:00",
                                 "parameter": {
                                     "parameterName": "舒適至悶熱"
@@ -156,10 +156,10 @@
                         "elementName": "MaxT",
                         "time": [
                             {
-                                "startTime": "2025-07-11 18:00:00",
+                                "startTime": "2025-07-12 00:00:00",
                                 "endTime": "2025-07-12 06:00:00",
                                 "parameter": {
-                                    "parameterName": "29",
+                                    "parameterName": "28",
                                     "parameterUnit": "C"
                                 }
                             },
