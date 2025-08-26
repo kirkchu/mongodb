@@ -43,11 +43,11 @@
                         "elementName": "Wx",
                         "time": [
                             {
-                                "startTime": "2025-08-26 18:00:00",
+                                "startTime": "2025-08-27 00:00:00",
                                 "endTime": "2025-08-27 06:00:00",
                                 "parameter": {
-                                    "parameterName": "多雲時晴",
-                                    "parameterValue": "3"
+                                    "parameterName": "晴時多雲",
+                                    "parameterValue": "2"
                                 }
                             },
                             {
@@ -72,10 +72,10 @@
                         "elementName": "PoP",
                         "time": [
                             {
-                                "startTime": "2025-08-26 18:00:00",
+                                "startTime": "2025-08-27 00:00:00",
                                 "endTime": "2025-08-27 06:00:00",
                                 "parameter": {
-                                    "parameterName": "20",
+                                    "parameterName": "10",
                                     "parameterUnit": "百分比"
                                 }
                             },
@@ -101,10 +101,10 @@
                         "elementName": "MinT",
                         "time": [
                             {
-                                "startTime": "2025-08-26 18:00:00",
+                                "startTime": "2025-08-27 00:00:00",
                                 "endTime": "2025-08-27 06:00:00",
                                 "parameter": {
-                                    "parameterName": "27",
+                                    "parameterName": "25",
                                     "parameterUnit": "C"
                                 }
                             },
@@ -130,10 +130,10 @@
                         "elementName": "CI",
                         "time": [
                             {
-                                "startTime": "2025-08-26 18:00:00",
+                                "startTime": "2025-08-27 00:00:00",
                                 "endTime": "2025-08-27 06:00:00",
                                 "parameter": {
-                                    "parameterName": "舒適至悶熱"
+                                    "parameterName": "舒適"
                                 }
                             },
                             {
@@ -156,10 +156,10 @@
                         "elementName": "MaxT",
                         "time": [
                             {
-                                "startTime": "2025-08-26 18:00:00",
+                                "startTime": "2025-08-27 00:00:00",
                                 "endTime": "2025-08-27 06:00:00",
                                 "parameter": {
-                                    "parameterName": "31",
+                                    "parameterName": "27",
                                     "parameterUnit": "C"
                                 }
                             },
