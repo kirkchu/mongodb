@@ -1,0 +1,17 @@
+[
+    {
+        "city": "台北",
+        "url": "https://www.travel.taipei/zh-tw",
+        "image": "https://zh.wikipedia.org/wiki/File:Taipei_Skyline_2022.06.29.jpg",
+        "longitude": 121.56502645238207,
+        "latitude": 25.03328203862442
+    },
+    {
+        "city": "阿姆斯特丹",
+        "url": "https://www.amsterdam.nl/en/",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Amsterdam_Prinsengracht_Wallpaper.jpg/960px-Amsterdam_Prinsengracht_Wallpaper.jpg",
+        "longitude": 4.893144161958485,
+        "latitude": 52.3732194744736
+    }
+]
+
