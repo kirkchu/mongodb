@@ -43,7 +43,7 @@
                         "elementName": "Wx",
                         "time": [
                             {
-                                "startTime": "2025-10-14 18:00:00",
+                                "startTime": "2025-10-15 00:00:00",
                                 "endTime": "2025-10-15 06:00:00",
                                 "parameter": {
                                     "parameterName": "晴時多雲",
@@ -72,7 +72,7 @@
                         "elementName": "PoP",
                         "time": [
                             {
-                                "startTime": "2025-10-14 18:00:00",
+                                "startTime": "2025-10-15 00:00:00",
                                 "endTime": "2025-10-15 06:00:00",
                                 "parameter": {
                                     "parameterName": "0",
@@ -101,7 +101,7 @@
                         "elementName": "MinT",
                         "time": [
                             {
-                                "startTime": "2025-10-14 18:00:00",
+                                "startTime": "2025-10-15 00:00:00",
                                 "endTime": "2025-10-15 06:00:00",
                                 "parameter": {
                                     "parameterName": "26",
@@ -130,10 +130,10 @@
                         "elementName": "CI",
                         "time": [
                             {
-                                "startTime": "2025-10-14 18:00:00",
+                                "startTime": "2025-10-15 00:00:00",
                                 "endTime": "2025-10-15 06:00:00",
                                 "parameter": {
-                                    "parameterName": "舒適至悶熱"
+                                    "parameterName": "舒適"
                                 }
                             },
                             {
@@ -156,10 +156,10 @@
                         "elementName": "MaxT",
                         "time": [
                             {
-                                "startTime": "2025-10-14 18:00:00",
+                                "startTime": "2025-10-15 00:00:00",
                                 "endTime": "2025-10-15 06:00:00",
                                 "parameter": {
-                                    "parameterName": "30",
+                                    "parameterName": "28",
                                     "parameterUnit": "C"
                                 }
                             },
