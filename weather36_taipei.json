@@ -43,7 +43,7 @@
                         "elementName": "Wx",
                         "time": [
                             {
-                                "startTime": "2025-10-19 18:00:00",
+                                "startTime": "2025-10-20 00:00:00",
                                 "endTime": "2025-10-20 06:00:00",
                                 "parameter": {
                                     "parameterName": "陰陣雨或雷雨",
@@ -72,10 +72,10 @@
                         "elementName": "PoP",
                         "time": [
                             {
-                                "startTime": "2025-10-19 18:00:00",
+                                "startTime": "2025-10-20 00:00:00",
                                 "endTime": "2025-10-20 06:00:00",
                                 "parameter": {
-                                    "parameterName": "80",
+                                    "parameterName": "100",
                                     "parameterUnit": "百分比"
                                 }
                             },
@@ -83,7 +83,7 @@
                                 "startTime": "2025-10-20 06:00:00",
                                 "endTime": "2025-10-20 18:00:00",
                                 "parameter": {
-                                    "parameterName": "90",
+                                    "parameterName": "100",
                                     "parameterUnit": "百分比"
                                 }
                             },
@@ -101,10 +101,10 @@
                         "elementName": "MinT",
                         "time": [
                             {
-                                "startTime": "2025-10-19 18:00:00",
+                                "startTime": "2025-10-20 00:00:00",
                                 "endTime": "2025-10-20 06:00:00",
                                 "parameter": {
-                                    "parameterName": "25",
+                                    "parameterName": "24",
                                     "parameterUnit": "C"
                                 }
                             },
@@ -112,7 +112,7 @@
                                 "startTime": "2025-10-20 06:00:00",
                                 "endTime": "2025-10-20 18:00:00",
                                 "parameter": {
-                                    "parameterName": "25",
+                                    "parameterName": "24",
                                     "parameterUnit": "C"
                                 }
                             },
@@ -130,7 +130,7 @@
                         "elementName": "CI",
                         "time": [
                             {
-                                "startTime": "2025-10-19 18:00:00",
+                                "startTime": "2025-10-20 00:00:00",
                                 "endTime": "2025-10-20 06:00:00",
                                 "parameter": {
                                     "parameterName": "舒適"
@@ -156,10 +156,10 @@
                         "elementName": "MaxT",
                         "time": [
                             {
-                                "startTime": "2025-10-19 18:00:00",
+                                "startTime": "2025-10-20 00:00:00",
                                 "endTime": "2025-10-20 06:00:00",
                                 "parameter": {
-                                    "parameterName": "27",
+                                    "parameterName": "25",
                                     "parameterUnit": "C"
                                 }
                             },
@@ -167,7 +167,7 @@
                                 "startTime": "2025-10-20 06:00:00",
                                 "endTime": "2025-10-20 18:00:00",
                                 "parameter": {
-                                    "parameterName": "26",
+                                    "parameterName": "25",
                                     "parameterUnit": "C"
                                 }
                             },
