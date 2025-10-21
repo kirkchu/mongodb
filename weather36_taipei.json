@@ -43,7 +43,7 @@
                         "elementName": "Wx",
                         "time": [
                             {
-                                "startTime": "2025-10-21 18:00:00",
+                                "startTime": "2025-10-22 00:00:00",
                                 "endTime": "2025-10-22 06:00:00",
                                 "parameter": {
                                     "parameterName": "陰陣雨或雷雨",
@@ -72,7 +72,7 @@
                         "elementName": "PoP",
                         "time": [
                             {
-                                "startTime": "2025-10-21 18:00:00",
+                                "startTime": "2025-10-22 00:00:00",
                                 "endTime": "2025-10-22 06:00:00",
                                 "parameter": {
                                     "parameterName": "100",
@@ -101,7 +101,7 @@
                         "elementName": "MinT",
                         "time": [
                             {
-                                "startTime": "2025-10-21 18:00:00",
+                                "startTime": "2025-10-22 00:00:00",
                                 "endTime": "2025-10-22 06:00:00",
                                 "parameter": {
                                     "parameterName": "22",
@@ -130,7 +130,7 @@
                         "elementName": "CI",
                         "time": [
                             {
-                                "startTime": "2025-10-21 18:00:00",
+                                "startTime": "2025-10-22 00:00:00",
                                 "endTime": "2025-10-22 06:00:00",
                                 "parameter": {
                                     "parameterName": "舒適"
@@ -156,10 +156,10 @@
                         "elementName": "MaxT",
                         "time": [
                             {
-                                "startTime": "2025-10-21 18:00:00",
+                                "startTime": "2025-10-22 00:00:00",
                                 "endTime": "2025-10-22 06:00:00",
                                 "parameter": {
-                                    "parameterName": "23",
+                                    "parameterName": "22",
                                     "parameterUnit": "C"
                                 }
                             },
