@@ -43,11 +43,11 @@
                         "elementName": "Wx",
                         "time": [
                             {
-                                "startTime": "2026-01-03 18:00:00",
+                                "startTime": "2026-01-04 00:00:00",
                                 "endTime": "2026-01-04 06:00:00",
                                 "parameter": {
-                                    "parameterName": "多雲時晴",
-                                    "parameterValue": "3"
+                                    "parameterName": "晴時多雲",
+                                    "parameterValue": "2"
                                 }
                             },
                             {
@@ -72,7 +72,7 @@
                         "elementName": "PoP",
                         "time": [
                             {
-                                "startTime": "2026-01-03 18:00:00",
+                                "startTime": "2026-01-04 00:00:00",
                                 "endTime": "2026-01-04 06:00:00",
                                 "parameter": {
                                     "parameterName": "0",
@@ -101,7 +101,7 @@
                         "elementName": "MinT",
                         "time": [
                             {
-                                "startTime": "2026-01-03 18:00:00",
+                                "startTime": "2026-01-04 00:00:00",
                                 "endTime": "2026-01-04 06:00:00",
                                 "parameter": {
                                     "parameterName": "13",
@@ -130,7 +130,7 @@
                         "elementName": "CI",
                         "time": [
                             {
-                                "startTime": "2026-01-03 18:00:00",
+                                "startTime": "2026-01-04 00:00:00",
                                 "endTime": "2026-01-04 06:00:00",
                                 "parameter": {
                                     "parameterName": "寒冷"
@@ -156,7 +156,7 @@
                         "elementName": "MaxT",
                         "time": [
                             {
-                                "startTime": "2026-01-03 18:00:00",
+                                "startTime": "2026-01-04 00:00:00",
                                 "endTime": "2026-01-04 06:00:00",
                                 "parameter": {
                                     "parameterName": "14",
