@@ -43,7 +43,7 @@
                         "elementName": "Wx",
                         "time": [
                             {
-                                "startTime": "2026-01-19 18:00:00",
+                                "startTime": "2026-01-20 00:00:00",
                                 "endTime": "2026-01-20 06:00:00",
                                 "parameter": {
                                     "parameterName": "陰短暫雨",
@@ -72,7 +72,7 @@
                         "elementName": "PoP",
                         "time": [
                             {
-                                "startTime": "2026-01-19 18:00:00",
+                                "startTime": "2026-01-20 00:00:00",
                                 "endTime": "2026-01-20 06:00:00",
                                 "parameter": {
                                     "parameterName": "50",
@@ -101,7 +101,7 @@
                         "elementName": "MinT",
                         "time": [
                             {
-                                "startTime": "2026-01-19 18:00:00",
+                                "startTime": "2026-01-20 00:00:00",
                                 "endTime": "2026-01-20 06:00:00",
                                 "parameter": {
                                     "parameterName": "16",
@@ -130,7 +130,7 @@
                         "elementName": "CI",
                         "time": [
                             {
-                                "startTime": "2026-01-19 18:00:00",
+                                "startTime": "2026-01-20 00:00:00",
                                 "endTime": "2026-01-20 06:00:00",
                                 "parameter": {
                                     "parameterName": "稍有寒意"
@@ -156,10 +156,10 @@
                         "elementName": "MaxT",
                         "time": [
                             {
-                                "startTime": "2026-01-19 18:00:00",
+                                "startTime": "2026-01-20 00:00:00",
                                 "endTime": "2026-01-20 06:00:00",
                                 "parameter": {
-                                    "parameterName": "19",
+                                    "parameterName": "17",
                                     "parameterUnit": "C"
                                 }
                             },
