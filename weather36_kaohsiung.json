@@ -43,19 +43,19 @@
                         "elementName": "Wx",
                         "time": [
                             {
-                                "startTime": "2026-02-05 18:00:00",
+                                "startTime": "2026-02-06 00:00:00",
                                 "endTime": "2026-02-06 06:00:00",
                                 "parameter": {
-                                    "parameterName": "多雲短暫雨",
-                                    "parameterValue": "8"
+                                    "parameterName": "多雲時陰短暫雨",
+                                    "parameterValue": "9"
                                 }
                             },
                             {
                                 "startTime": "2026-02-06 06:00:00",
                                 "endTime": "2026-02-06 18:00:00",
                                 "parameter": {
-                                    "parameterName": "多雲時晴",
-                                    "parameterValue": "3"
+                                    "parameterName": "多雲短暫雨",
+                                    "parameterValue": "8"
                                 }
                             },
                             {
@@ -72,7 +72,7 @@
                         "elementName": "PoP",
                         "time": [
                             {
-                                "startTime": "2026-02-05 18:00:00",
+                                "startTime": "2026-02-06 00:00:00",
                                 "endTime": "2026-02-06 06:00:00",
                                 "parameter": {
                                     "parameterName": "30",
@@ -83,7 +83,7 @@
                                 "startTime": "2026-02-06 06:00:00",
                                 "endTime": "2026-02-06 18:00:00",
                                 "parameter": {
-                                    "parameterName": "20",
+                                    "parameterName": "30",
                                     "parameterUnit": "百分比"
                                 }
                             },
@@ -101,7 +101,7 @@
                         "elementName": "MinT",
                         "time": [
                             {
-                                "startTime": "2026-02-05 18:00:00",
+                                "startTime": "2026-02-06 00:00:00",
                                 "endTime": "2026-02-06 06:00:00",
                                 "parameter": {
                                     "parameterName": "22",
@@ -130,7 +130,7 @@
                         "elementName": "CI",
                         "time": [
                             {
-                                "startTime": "2026-02-05 18:00:00",
+                                "startTime": "2026-02-06 00:00:00",
                                 "endTime": "2026-02-06 06:00:00",
                                 "parameter": {
                                     "parameterName": "舒適"
@@ -156,10 +156,10 @@
                         "elementName": "MaxT",
                         "time": [
                             {
-                                "startTime": "2026-02-05 18:00:00",
+                                "startTime": "2026-02-06 00:00:00",
                                 "endTime": "2026-02-06 06:00:00",
                                 "parameter": {
-                                    "parameterName": "26",
+                                    "parameterName": "23",
                                     "parameterUnit": "C"
                                 }
                             },
