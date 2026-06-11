@@ -43,11 +43,11 @@
                         "elementName": "Wx",
                         "time": [
                             {
-                                "startTime": "2026-06-11 18:00:00",
+                                "startTime": "2026-06-12 00:00:00",
                                 "endTime": "2026-06-12 06:00:00",
                                 "parameter": {
-                                    "parameterName": "陰短暫陣雨或雷雨",
-                                    "parameterValue": "18"
+                                    "parameterName": "陰陣雨",
+                                    "parameterValue": "14"
                                 }
                             },
                             {
@@ -72,7 +72,7 @@
                         "elementName": "PoP",
                         "time": [
                             {
-                                "startTime": "2026-06-11 18:00:00",
+                                "startTime": "2026-06-12 00:00:00",
                                 "endTime": "2026-06-12 06:00:00",
                                 "parameter": {
                                     "parameterName": "70",
@@ -101,7 +101,7 @@
                         "elementName": "MinT",
                         "time": [
                             {
-                                "startTime": "2026-06-11 18:00:00",
+                                "startTime": "2026-06-12 00:00:00",
                                 "endTime": "2026-06-12 06:00:00",
                                 "parameter": {
                                     "parameterName": "23",
@@ -130,7 +130,7 @@
                         "elementName": "CI",
                         "time": [
                             {
-                                "startTime": "2026-06-11 18:00:00",
+                                "startTime": "2026-06-12 00:00:00",
                                 "endTime": "2026-06-12 06:00:00",
                                 "parameter": {
                                     "parameterName": "舒適"
@@ -156,7 +156,7 @@
                         "elementName": "MaxT",
                         "time": [
                             {
-                                "startTime": "2026-06-11 18:00:00",
+                                "startTime": "2026-06-12 00:00:00",
                                 "endTime": "2026-06-12 06:00:00",
                                 "parameter": {
                                     "parameterName": "23",
