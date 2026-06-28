@@ -1,12 +1,17 @@
 [
     {
-        "id": 1,
-        "name": "David",
-        "age": 30
+        "firstname": "David",
+        "lastname": "Wang",
+        "age": 30,
+        "children": [
+            { "name": "Bob", "age": 3 },
+            { "name": "Alice", "age": 1 }
+        ]
     },
-    { 
-        "id": 2,
-        "name": "Betty",
-        "age": 27
+    {
+        "firstname": "Betty",
+        "lastname": "Li",
+        "age": 28,
+        "children": null
     }
-]
+]  
