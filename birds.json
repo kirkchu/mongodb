@@ -1,74 +1,74 @@
 [
     {
-        "name": "Owl",
-        "description": "All owls are carnivorous birds of prey and live on diets of insects, small rodents and lagomorphs. Some owls are also specifically adapted to hunt fish.",
+        "name": "貓頭鷹",
+        "description": "所有貓頭鷹都是肉食性的猛禽，以昆蟲、小型齧齒動物和兔形目動物為食。有些貓頭鷹也特別適應捕食魚類。",
         "image": "https://raw.githubusercontent.com/kirkchu/mongodb/refs/heads/main/images/owl.jpg",
         "wiki": "https://en.wikipedia.org/wiki/Owl",
-        "habitat": "Forests, woodlands, grasslands and wetlands",
-        "diet": "Insects, small mammals, birds and fish",
-        "distribution": "Worldwide except Antarctica"
+        "habitat": "森林、林地、草原和濕地",
+        "diet": "昆蟲、小型哺乳動物、鳥類和魚類",
+        "distribution": "全球，南極洲除外"
     },
     {
-        "name": "Songbird",
-        "description": "A songbird is a bird belonging to the suborder Passeri of the perching birds (Passeriformes). Another name that is sometimes seen as the scientific or vernacular name is Oscines, from Latin oscen, \"songbird\".",
+        "name": "鳴禽",
+        "description": "鳴禽是屬於雀形目（Passeriformes）鳴禽亞目（Passeri）的鳥類。其科學名稱或俗名有時也會使用 Oscines，源自拉丁文 oscen，意為「鳴禽」。",
         "image": "https://raw.githubusercontent.com/kirkchu/mongodb/refs/heads/main/images/songbird.jpg",
         "wiki": "https://en.wikipedia.org/wiki/Songbird",
-        "habitat": "Forests, woodlands, shrublands and grasslands",
-        "diet": "Insects, seeds, fruits and nectar",
-        "distribution": "Worldwide"
+        "habitat": "森林、林地、灌木地和草原",
+        "diet": "昆蟲、種子、果實和花蜜",
+        "distribution": "全球"
     },
     {
-        "name": "Northern Cardinal",
-        "description": "The northern cardinal (Cardinalis cardinalis), known colloquially as the common cardinal, red cardinal, or just cardinal, is a bird in the genus Cardinalis.",
+        "name": "北美紅雀",
+        "description": "北美紅雀（Cardinalis cardinalis），俗稱普通紅雀、紅雀或紅雀，是紅雀屬的一種鳥類。",
         "image": "https://raw.githubusercontent.com/kirkchu/mongodb/refs/heads/main/images/northern_cardinal.jpg",
         "wiki": "https://en.wikipedia.org/wiki/Northern_cardinal",
-        "habitat": "Woodland edges, shrublands, gardens and wetlands",
-        "diet": "Seeds, fruits and insects",
-        "distribution": "Eastern and central North America"
+        "habitat": "森林邊緣、灌木地、花園和濕地",
+        "diet": "種子、果實和昆蟲",
+        "distribution": "北美洲東部和中部"
     },
     {
-        "name": "Woodpecker",
-        "description": "Woodpeckers are part of the bird family Picidae, which also includes the piculets, wrynecks and sapsuckers.[1] Members of this family are found worldwide, except for Australia, New Guinea, New Zealand, Madagascar and the extreme polar regions.",
+        "name": "啄木鳥",
+        "description": "啄木鳥屬於啄木鳥科（Picidae），該科還包括啄木鳥亞科、旋木鳥和吸汁啄木鳥。這個科的成員遍布全球，但澳洲、新幾內亞、紐西蘭、馬達加斯加和極地地區除外。",
         "image": "https://raw.githubusercontent.com/kirkchu/mongodb/refs/heads/main/images/woodpecker.jpg",
         "wiki": "https://en.wikipedia.org/wiki/Woodpecker",
-        "habitat": "Forests and woodlands",
-        "diet": "Insects, larvae, seeds, fruits and tree sap",
-        "distribution": "Worldwide except Australia, New Guinea, New Zealand, Madagascar and polar regions"
+        "habitat": "森林和林地",
+        "diet": "昆蟲、幼蟲、種子、果實和樹液",
+        "distribution": "全球，澳洲、新幾內亞、紐西蘭、馬達加斯加和極地地區除外"
     },
     {
-        "name": "Bald Eagle",
-        "description": "The bald eagle is a bird of prey found in North America. It is known for its distinctive white head and tail and is the national bird of the United States.",
+        "name": "白頭海鵰",
+        "description": "白頭海鵰是一種分布於北美洲的猛禽，以其醒目的白色頭部和尾部聞名，也是美國的國鳥。",
         "image": "https://raw.githubusercontent.com/kirkchu/mongodb/refs/heads/main/images/bald_eagle.jpg",
         "wiki": "https://en.wikipedia.org/wiki/Bald_eagle",
-        "habitat": "Lakes, rivers, coastal areas and forests",
-        "diet": "Fish, waterfowl, mammals and carrion",
-        "distribution": "North America"
+        "habitat": "湖泊、河流、沿海地區和森林",
+        "diet": "魚類、水鳥、哺乳動物和腐肉",
+        "distribution": "北美洲"
     },
     {
-        "name": "Blue Jay",
-        "description": "The blue jay is a passerine bird native to eastern and central North America. It is known for its blue plumage, intelligence and loud calls.",
+        "name": "冠藍鴉",
+        "description": "冠藍鴉是一種原生於北美洲東部和中部的雀形目鳥類，以藍色羽毛、聰明的特性和響亮的叫聲聞名。",
         "image": "https://raw.githubusercontent.com/kirkchu/mongodb/refs/heads/main/images/blue_jay.jpg",
         "wiki": "https://en.wikipedia.org/wiki/Blue_jay",
-        "habitat": "Forests, woodland edges, parks and suburban areas",
-        "diet": "Seeds, nuts, fruits, insects and small vertebrates",
-        "distribution": "Eastern and central North America"
+        "habitat": "森林、森林邊緣、公園和郊區",
+        "diet": "種子、堅果、果實、昆蟲和小型脊椎動物",
+        "distribution": "北美洲東部和中部"
     },
     {
-        "name": "Emperor Penguin",
-        "description": "The emperor penguin is the tallest and heaviest living penguin species. It is adapted to survive the extremely cold conditions of Antarctica.",
+        "name": "皇帝企鵝",
+        "description": "皇帝企鵝是現存體型最高大、重量最重的企鵝物種。牠適應了南極洲極度寒冷的環境。",
         "image": "https://raw.githubusercontent.com/kirkchu/mongodb/refs/heads/main/images/emperor_penguin.jpg",
         "wiki": "https://en.wikipedia.org/wiki/Emperor_penguin",
-        "habitat": "Antarctic sea ice and surrounding ocean",
-        "diet": "Fish, squid and krill",
-        "distribution": "Antarctica"
+        "habitat": "南極海冰及周邊海域",
+        "diet": "魚類、魷魚和磷蝦",
+        "distribution": "南極洲"
     },
     {
-        "name": "Great Hornbill",
-        "description": "The great hornbill is a large member of the hornbill family found in forests of South and Southeast Asia. It is recognized by its large yellow bill and prominent casque.",
+        "name": "大犀鳥",
+        "description": "大犀鳥是犀鳥科的大型鳥類，分布於南亞和東南亞的森林。牠以大型黃色鳥喙和醒目的盔突為特色。",
         "image": "https://raw.githubusercontent.com/kirkchu/mongodb/refs/heads/main/images/great_hornbill.jpg",
         "wiki": "https://en.wikipedia.org/wiki/Great_hornbill",
-        "habitat": "Tropical and subtropical forests",
-        "diet": "Fruits, insects, small reptiles and small mammals",
-        "distribution": "South and Southeast Asia"
-    }    
+        "habitat": "熱帶和亞熱帶森林",
+        "diet": "果實、昆蟲、小型爬蟲類和小型哺乳動物",
+        "distribution": "南亞和東南亞"
+    }
 ]
